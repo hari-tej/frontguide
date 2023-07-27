@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+
+  background: linear-gradient(45deg,blue,rgb(0, 136, 255),rgb(71, 247, 244));
+
+  
+}
+
+
+
+*{
+  margin:0px;
+  padding:0px;
+}
+
+
+
+
