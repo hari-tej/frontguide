@@ -51,7 +51,7 @@ window.location.reload();
         <section className=" pt-4 pl-2 pr-2 m-2 bg-light border rounded border-1 shadow-lg">
           <h1 className="text-center text-primary ps-5 pe-5 ms-5 me-5"><b>SEMESTER-7</b> </h1>
           <h3 className="text-center">(August-November)</h3>
-          <p className="text-center"  >All resources needed by a student have been provided below.These include youtube videos links of each subject, textbooks along with PYQs.</p>
+          <p className="text-center"  >All resources needed by a student have been provided below.These include youtube videos links of each subject and PYQs.</p>
         <div className="accordion p-5" id="accordionExample">
     <div className="accordion-item p-2">
     <h2 className="accordion-header">
@@ -60,15 +60,12 @@ window.location.reload();
       </button>
     </h2>
     <div id="collapseOne" className="accordion-collapse collapse " data-bs-parent="#accordionExample">
-      <div className="accordion-body">
+      <div className="accordion-body text-start">
         <strong>The subject deals with the fundamental concepts of programming.</strong> 
 
         <p>Youtube channels:</p>
-          <a href="https://www.google.com">Gate smashers</a><br></br>
-          <a href="#">5 min engineering</a><br></br>
-          <a href="#">Neso Academy</a><br></br>
-          <a href="#">Sandeep</a><br></br>
-          <b>Textbook:</b> <button className="btn btn-success ">Download</button><br></br>
+         <b>Uzaid Javed Akhtar </b><a href="https://youtube.com/playlist?list=PLv9sD0fPjvSHqIOLTIvHJWjkdH0IdzmXT" target="_blank">https://youtube.com/playlist?list=PLv9sD0fPjvSH</a><br></br>
+          
           <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner"href='/question/fourth/ADS.pdf' download='ADS.pdf'> Download</a></button>
         
          
@@ -82,14 +79,13 @@ window.location.reload();
       </button>
     </h2>
     <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
-      <div className="accordion-body">
+      <div className="accordion-body text-start">
         <strong>This subject deals with fundamental concepts of computer network.</strong> 
         <p>Youtube Channels:</p>
-        <b>Gate Smashers:</b> <a href="#">Gate smashers</a><br></br>
-        <b>5 mins engineering:</b> <a href="#">5 min engineering</a><br></br>
-        <b>Neso Academy:</b> <a href="#">Neso Academy</a><br></br>
-        <b>Sandeep:</b> <a href="#">Sandeep</a><br></br><br></br>
-         <b>Textbook:</b> <button className="btn btn-success">Download</button><br></br>
+        <b>Shanu kuttan CSE classes: </b> <a href="https://youtube.com/playlist?list=PL3R9-um41JswxXxLu6qmsib45wDd7d0YU" target="_blank">https://youtube.com/playlist?list=PL3R9-um41Js</a><br></br>
+        <b>AllAboutCSIT:</b> <a href="https://youtube.com/playlist?list=PLGuh2K9TUN4Qxkrylyq_qwfhAZiuzZ2gz" target="_blank">https://youtube.com/playlist?list=PLGuh2K9TUN4Q</a><br></br>
+        <b>Asha khilrani:</b> <a href="https://youtube.com/playlist?list=PLz8TdOA7NTzSOHaom_1AGQNrVeAzI3GIM" target="_blank">https://youtube.com/playlist?list=PLz8TdOA</a><br></br>
+        
          <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner"href='/question/fourth/ACA.pdf' download='ACA.pdf'> Download</a></button>
         
       </div>
@@ -102,14 +98,14 @@ window.location.reload();
       </button>
     </h2>
     <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
-      <div className="accordion-body">
+      <div className="accordion-body text-start">
         <strong>This subject deals with microprocessor fundamentals.</strong> 
         <p>Youtube Channels:</p>
-        <b>Gate Smashers:</b> <a href="#">Gate smashers</a><br></br>
-        <b>5 mins engineering:</b> <a href="#">5 min engineering</a><br></br>
-        <b>Neso Academy:</b> <a href="#">Neso Academy</a><br></br>
-        <b>Sandeep:</b> <a href="#">Sandeep</a><br></br>
-        <b>Textbook:</b> <button className="btn btn-success">Download</button><br></br>
+      
+        <b>5 mins engineering:</b> <a href="https://youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P" target="_blank">https://youtube.com/playlist?list=PLYwpaL_SFmcB</a><br></br>
+        <b>Trouble-Free:</b> <a href="https://youtube.com/playlist?list=PLmAmHQ-_5ySyQeEryrlomrEvOGNYN3TAL" target="_blank">https://youtube.com/playlist?list=PLmAmHQ-_5ySy</a><br></br>
+        <b>Codebasics:</b> <a href="https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw" target="_blank">https://youtube.com/playlist?list=PLeo1K3hjS</a><br></br>
+        
         <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner"href='/question/fourth/Ml.pdf' download='ML.pdf'> Download</a></button>
         
       </div>
@@ -127,6 +123,7 @@ window.location.reload();
  <section className="pt-4 pl-2 pr-2 m-2 bg-light border rounded border-1 shadow-lg">
   <h1 className="text-center text-primary "><b>SEMESTER-8</b> </h1>
   <h3 className="text-center">(January-May)</h3>
+  <p className="text-center"  >All resources needed by a student have been provided below.These include youtube videos links of each subject and  PYQs.</p>
 <div className="accordion p-5" id="accordionExample2">
 <div className="accordion-item p-2">
 <h2 className="accordion-header">
@@ -135,15 +132,14 @@ NETWORK SECURITY AND CRYPTOGRAPHY
 </button>
 </h2>
 <div id="collapseSix" className="accordion-collapse collapse " data-bs-parent="#accordionExample2">
-<div className="accordion-body">
+<div className="accordion-body text-start">
 <strong>The subject deals with the fundamental concepts of programming.</strong> 
 
 <p>Youtube channels:</p>
-  <a href="#">Gate smashers</a><br></br>
-  <a href="#">5 min engineering</a><br></br>
-  <a href="#">Neso Academy</a><br></br>
-  <a href="#">Sandeep</a><br></br>
-  <b>Textbook:</b> <button className="btn btn-success">Download</button><br></br>
+ <b>Abhishek Sharma: </b> <a href="https://youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8" target="_blank">https://youtube.com/playlist?list=PL9FuOtXibF</a><br></br>
+ <b>Trouble-Free: </b> <a href="https://youtube.com/playlist?list=PLmAmHQ-_5ySx_dXmOwSuGGGyE8XsbYT0n" target="_blank">https://youtube.com/playlist?list=PLmAmHQ-_5yS</a><br></br>
+ <b>Neso Academy: </b> <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII" target="_blank">https://youtube.com/playlist?list=PLBlnK6fEyq</a><br></br>
+ 
   <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner"href='/question/fourth/NSC.pdf' download='NSC.pdf'> Download</a></button>
         
 </div>
@@ -156,14 +152,13 @@ CLOUD COMPUTING
 </button>
 </h2>
 <div id="collapseSeven" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
-<div className="accordion-body">
+<div className="accordion-body text-start">
 <strong>This subject deals with fundamental concepts of computer network.</strong> 
 <p>Youtube Channels:</p>
-<b>Gate Smashers:</b> <a href="#">Gate smashers</a><br></br>
-<b>5 mins engineering:</b> <a href="#">5 min engineering</a><br></br>
-<b>Neso Academy:</b> <a href="#">Neso Academy</a><br></br>
-<b>Sandeep:</b> <a href="#">Sandeep</a><br></br>
-<b>Textbook:</b> <button className="btn btn-success">Download</button><br></br>
+<b>Abhishek Sharma:</b> <a href="https://youtube.com/playlist?list=PL9FuOtXibFjUE8MpVv6uiAWfj5E3dsBZR" target="_blank">https://youtube.com/playlist?list=PL9FuOtXibF</a><br></br>
+<b>5 mins engineering:</b> <a href="https://youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV" target="_blank">https://youtube.com/playlist?list=PLYwpaL_SFmc</a><br></br>
+<b>Education4u: </b> <a href="https://youtube.com/playlist?list=PLrjkTql3jnm86_Jr9195OaqN-HeiBy49I" target="_blank">https://youtube.com/playlist?list=PLrjkTql3jnm86</a><br></br>
+
 <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner"href='/question/fourth/CC.pdf' download='CC.pdf'> Download</a></button>
         
 
@@ -177,14 +172,11 @@ ENVIRONMENTAL STUDIES
 </button>
 </h2>
 <div id="collapseEight" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
-<div className="accordion-body">
+<div className="accordion-body text-start">
 <strong>This subject deals with microprocessor fundamentals.</strong> 
 <p>Youtube Channels:</p>
-<b>Gate Smashers:</b> <a href="#">Gate smashers</a><br></br>
-<b>5 mins engineering:</b> <a href="#">5 min engineering</a><br></br>
-<b>Neso Academy:</b> <a href="#">Neso Academy</a><br></br>
-<b>Sandeep:</b> <a href="#">Sandeep</a><br></br>
-<b>Textbook:</b> <button className="btn btn-success">Download</button><br></br>
+<b>Study circle 2.0:</b> <a href="https://youtube.com/playlist?list=PLhc1EpSGc3oNHOEtC_gDeazKbyOrF-wkP" target="_blank">https://youtube.com/playlist?list=PLhc1EpSGc3oNHOE</a><br></br>
+
 <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner"href='/question/fourth/EVS.pdf' download='EVS.pdf'> Download</a></button>
         
 </div>
@@ -204,7 +196,7 @@ ENVIRONMENTAL STUDIES
  <label><h4>Name:</h4></label><br></br>
  <input type="text" placeholder="Name" onChange={(e)=>{setName(e.target.value)}}/><br></br>
  <label><h5>Comments:</h5></label><br></br>
- <textarea placeholder='comments,suggestions,queries...' onChange={(e)=>{setComment(e.target.value)}}></textarea><br></br><br></br>
+ <textarea rows="10" cols="30" placeholder='comments,suggestions,queries...' onChange={(e)=>{setComment(e.target.value)}}></textarea><br></br><br></br>
  <button className="btn btn-success" onClick={addtodata}>Submit</button>
 
  </div>

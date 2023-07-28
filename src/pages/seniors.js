@@ -1,7 +1,7 @@
 export const Senior=()=>{
     return(
        <div>
-        <h1 className="text-center text-light mt-5">Feel free to connect to your CSE Seniors for help!</h1>
+        <span><h1 className="text-center text-light mt-5 mx-3">Connect to your CSE Seniors for help!</h1></span>
         <div className="container-lg justify-content-center">
         <br></br><br></br>
             <div className="col d-flex flex-direction-center justify-content-center "> 

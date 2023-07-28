@@ -49,9 +49,9 @@ const addtodata=()=>{
         <section className=" pt-4 pl-2 pr-2 m-2 border bg-light rounded border-1 shadow-lg">
           <h1 className="text-center text-success ps-5 pe-5 ms-5 me-5"><b>SEMESTER-3</b> </h1>
           <h3 className="text-center">(August-November)</h3>
-          <p className="text-center"  >All resources needed by a student have been provided below.These include youtube videos links of each subject, textbooks along with PYQs.</p>
+          <p className="text-center"  >All resources needed by a student have been provided below.These include youtube videos links of each subject and  PYQs.</p>
         <div className="accordion p-5" id="accordionExample">
-    <div className="accordion-item p-2">
+    <div className="accordion-item ">
     <h2 className="accordion-header">
       <button className="accordion-button collapsed fw-bolder" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
        OBJECT ORIENTED PROGRAMMING
@@ -62,9 +62,9 @@ const addtodata=()=>{
         <strong>The subject deals with the fundamental concepts of programming.</strong> 
 
         <p>Youtube channels:</p>
-          <b>kunal kushwaha:</b> <a href="https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk" target="_blank">https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk</a><br></br>
-         <b>codeitup:</b> <a href="https://youtube.com/playlist?list=PLmRclvVt5DtnqhXTJwd-oqVRwO3bLZCGV" target="_blank">https://youtube.com/playlist?list=PLmRclvVt5DtnqhXTJwd-oqVRwO3bLZCGV</a><br></br>
-         <b>Smart Programming:</b> <a href="https://youtube.com/playlist?list=PLlhM4lkb2sEhf5NlWeYh_gdcN49pHjVP0" target="_blank">https://youtube.com/playlist?list=PLlhM4lkb2sEhf5NlWeYh_gdcN49pHjVP0</a><br></br>
+          <b>kunal kushwaha:</b> <a href="https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk" target="_blank">https://youtube.com/playlist?list=PL9gnSGHSq</a><br></br>
+         <b>codeitup:</b> <a href="https://youtube.com/playlist?list=PLmRclvVt5DtnqhXTJwd-oqVRwO3bLZCGV" target="_blank">https://youtube.com/playlist?list=PLmRclvVt5DtnqhX</a><br></br>
+         <b>Smart Programming:</b> <a href="https://youtube.com/playlist?list=PLlhM4lkb2sEhf5NlWeYh_gdcN49pHjVP0" target="_blank">https://youtube.com/playlist?list=PLlhM4lkb2s</a><br></br>
           
           
           <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/second/Macroeconomics.pdf' download='Economics.pdf'> Download</a></button>
@@ -84,8 +84,8 @@ const addtodata=()=>{
       <div className="accordion-body text-start">
         <strong>This subject deals with fundamental concepts of computer network.</strong> 
         <p>Youtube Channels:</p>
-        <b>Naresh i Technologies:</b> <a href="https://youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j" target="_blank">https://youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j</a><br></br>
-        <b>Engineer Drive:</b> <a href="https://youtube.com/playlist?list=PL5Rc9H5eTGY46HAzmNeHbrE5r9LTf_rNB" target="_blank">https://youtube.com/playlist?list=PL5Rc9H5eTGY46HAzmNeHbrE5r9LTf_rNB</a><br></br>
+        <b>Naresh i Technologies:</b> <a href="https://youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j" target="_blank">https://youtube.com/playlist?list=PLVlQHNRLflP</a><br></br>
+        <b>Engineer Drive:</b> <a href="https://youtube.com/playlist?list=PL5Rc9H5eTGY46HAzmNeHbrE5r9LTf_rNB" target="_blank">https://youtube.com/playlist?list=PL5Rc9H5eTGY46H</a><br></br>
         
         
          <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/second/DS.pdf' download='DS.pdf'> Download</a></button>
@@ -104,9 +104,9 @@ const addtodata=()=>{
       <div className="accordion-body text-start">
         <strong>This subject deals with microprocessor fundamentals.</strong> 
         <p>Youtube Channels:</p>
-        <b>Dr.Gajendra Purohit:</b> <a href="https://youtube.com/playlist?list=PLU6SqdYcYsfI34zVjDYDCZ6KLAifHmN1v" target="_blank">https://youtube.com/playlist?list=PLU6SqdYcYsfI34zVjDYDCZ6KLAifHmN1v </a><br></br>
-        <b>Dr.Gajendra Purohit:</b> <a href="https://youtube.com/playlist?list=PLU6SqdYcYsfJOGZdxUpDk3w9o-w94-RoG" target="_blank">https://youtube.com/playlist?list=PLU6SqdYcYsfJOGZdxUpDk3w9o-w94-RoG</a><br></br>
-        <b>Bhagwan Singh Vishwakarma:</b> <a href="https://youtube.com/playlist?list=PLdM-WZokR4taLvoJPvfHwF8m0Q1K6Qvmz" target="_blank">https://youtube.com/playlist?list=PLdM-WZokR4taLvoJPvfHwF8m0Q1K6Qvmz</a><br></br>
+        <b>Dr.Gajendra Purohit:</b> <a href="https://youtube.com/playlist?list=PLU6SqdYcYsfI34zVjDYDCZ6KLAifHmN1v" target="_blank">https://youtube.com/playlist?list=PLU6SqdYcYsf </a><br></br>
+        <b>Dr.Gajendra Purohit:</b> <a href="https://youtube.com/playlist?list=PLU6SqdYcYsfJOGZdxUpDk3w9o-w94-RoG" target="_blank">https://youtube.com/playlist?list=PLU6SqdYcYsf</a><br></br>
+        <b>Bhagwan Singh Vishwakarma:</b> <a href="https://youtube.com/playlist?list=PLdM-WZokR4taLvoJPvfHwF8m0Q1K6Qvmz" target="_blank">https://youtube.com/playlist?list=PLdM-WZokR4</a><br></br>
         
         
         <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/second/LinearAlgebra.pdf' download='LinearAlgebra.pdf'> Download</a></button>
@@ -125,9 +125,9 @@ const addtodata=()=>{
       <div className="accordion-body text-start">
         <strong>This subject deals with operating system and its fundamentals</strong>
         <p>Youtube Channels:</p>
-        <b>Tutorials point:</b> <a href="https://youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-" target="_blank">https://youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-</a><br></br>
-        <b>Gate academy plus:</b> <a href="https://youtube.com/playlist?list=PL9RcWoqXmzaJN3LcyxBm2tLjUk8wvOYrv" target="_blank">https://youtube.com/playlist?list=PL9RcWoqXmzaJN3LcyxBm2tLjUk8wvOYrv</a><br></br>
-        <b>Neso Academy:</b> <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm" target="_blank">https://youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm</a><br></br>
+        <b>Tutorials point:</b> <a href="https://youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-" target="_blank">https://youtube.com/playlist?list=PLWPirh4EWF</a><br></br>
+        <b>Gate academy plus:</b> <a href="https://youtube.com/playlist?list=PL9RcWoqXmzaJN3LcyxBm2tLjUk8wvOYrv" target="_blank">https://youtube.com/playlist?list=PL9RcWoqX</a><br></br>
+        <b>Neso Academy:</b> <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm" target="_blank">https://youtube.com/playlist?list=PLBlnK6fEyqRjM</a><br></br>
         
         
         <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/second/DLD.pdf' download='DLD.pdf'> Download</a></button>
@@ -146,7 +146,7 @@ const addtodata=()=>{
       <div className="accordion-body text-start">
         <strong>This is the third item's accordion body.</strong> 
         <p>Youtube Channels:</p>
-        <b>Pratham Singh:</b> <a href="https://youtube.com/playlist?list=PL-fORSyPTUEILOVoZ9rh5KTCC1EnvKCJ0" target="_blank">https://youtube.com/playlist?list=PL-fORSyPTUEILOVoZ9rh5KTCC1EnvKCJ0</a><br></br>
+        <b>Pratham Singh:</b> <a href="https://youtube.com/playlist?list=PL-fORSyPTUEILOVoZ9rh5KTCC1EnvKCJ0" target="_blank">https://youtube.com/playlist?list=PL-fORSyPTUE</a><br></br>
         
         
         <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/second/Economics.pdf' download='Microeconomics.pdf'> Download</a></button>
@@ -165,9 +165,9 @@ const addtodata=()=>{
       <div className="accordion-body text-start">
         <strong>This is the third item's accordion body.</strong> 
         <p>Youtube Channels:</p>
-        <b>Dr.Gajendra Purohit:</b> <a href="https://youtube.com/playlist?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg" target="_blank">https://youtube.com/playlist?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg</a><br></br>
-<b>Neso Academy:</b> <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" target="_blank">https://youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3</a><br></br>
-<b>Knowledge Gate:</b> <a href="https://youtube.com/playlist?list=PLmXKhU9FNesTpQNP_OpXN7WaPwGx7NWsq" target="_blank">https://youtube.com/playlist?list=PLmXKhU9FNesTpQNP_OpXN7WaPwGx7NWsq</a><br></br>
+        <b>Dr.Gajendra Purohit:</b> <a href="https://youtube.com/playlist?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg" target="_blank">https://youtube.com/playlist?list=PLU6SqdYcY</a><br></br>
+<b>Neso Academy:</b> <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" target="_blank">https://youtube.com/playlist?list=PLBlnK6fEyqR</a><br></br>
+<b>Knowledge Gate:</b> <a href="https://youtube.com/playlist?list=PLmXKhU9FNesTpQNP_OpXN7WaPwGx7NWsq" target="_blank">https://youtube.com/playlist?list=PLmXKhU9FN</a><br></br>
         
         
         <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/second/DM.pdf' download='DM.pdf'> Download</a></button>
@@ -187,6 +187,7 @@ const addtodata=()=>{
  <section className="pt-4 pl-2 pr-2 m-2 border bg-light rounded border-1 shadow-lg">
   <h1 className="text-center  text-success "><b>SEMESTER-4</b> </h1>
   <h3 className="text-center">(January-May)</h3>
+  <p className="text-center"  >All resources needed by a student have been provided below.These include youtube videos links of each subject and  PYQs.</p>
 <div className="accordion p-5" id="accordionExample2">
 <div className="accordion-item p-2">
 <h2 className="accordion-header">
@@ -199,9 +200,9 @@ COMPUTER ORGANIZATION AND ARCHITECTURE
 <strong>The subject deals with the fundamental concepts of programming.</strong> 
 
 <p>Youtube channels:</p>
-  <b>Sudhakar Atchala:</b> <a href="https://youtube.com/playlist?list=PLXj4XH7LcRfDXDRzSLv1FfZ-SSA38SiC0" target="_blank">https://youtube.com/playlist?list=PLXj4XH7LcRfDXDRzSLv1FfZ-SSA38SiC0</a><br></br>
-  <b>Enginnering Drive:</b> <a href="https://youtube.com/playlist?list=PL5Rc9H5eTGY6MHqCKAarxhxqT7nipKgun" target="_blank">https://youtube.com/playlist?list=PL5Rc9H5eTGY6MHqCKAarxhxqT7nipKgun</a><br></br>
-  <b>Shanu Kuttan CSE classes:</b> <a href="https://youtube.com/playlist?list=PL3R9-um41JsxDsAsdRtw7XN7MJJ27Icsv" target="_blank">https://youtube.com/playlist?list=PL3R9-um41JsxDsAsdRtw7XN7MJJ27Icsv</a><br></br>
+  <b>Sudhakar Atchala:</b> <a href="https://youtube.com/playlist?list=PLXj4XH7LcRfDXDRzSLv1FfZ-SSA38SiC0" target="_blank">https://youtube.com/playlist?list=PLXj4XH7LcRfD</a><br></br>
+  <b>Enginnering Drive:</b> <a href="https://youtube.com/playlist?list=PL5Rc9H5eTGY6MHqCKAarxhxqT7nipKgun" target="_blank">https://youtube.com/playlist?list=PL5Rc9H5eTGY</a><br></br>
+  <b>Shanu Kuttan CSE classes:</b> <a href="https://youtube.com/playlist?list=PL3R9-um41JsxDsAsdRtw7XN7MJJ27Icsv" target="_blank">https://youtube.com/playlist?list=PL3R9-um41JsxD</a><br></br>
   
   
   <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/second/COA.pdf' download='COA.pdf'> Download</a></button>
@@ -220,10 +221,10 @@ THEORY OF COMPUTATION
 <div className="accordion-body text-start">
 <strong>This subject deals with fundamental concepts of computer network.</strong> 
 <p>Youtube Channels:</p>
-<b>Knowledge Gate:</b> <a href="https://youtube.com/playlist?list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T" target="_blank">https://youtube.com/playlist?list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T</a><br></br>
-<b>Sandeep Sarathi:</b> <a href="https://youtube.com/playlist?list=PLLOxZwkBK52CTVrHjYa7-SpXlEtef1TqL" target="_blank">https://youtube.com/playlist?list=PLLOxZwkBK52CTVrHjYa7-SpXlEtef1TqL</a><br></br>
-<b>Education4u:</b> <a href="https://youtube.com/playlist?list=PLrjkTql3jnm_TWSXXvWX1_jX-L6f1QJSx" target="_blank">https://youtube.com/playlist?list=PLrjkTql3jnm_TWSXXvWX1_jX-L6f1QJSx</a><br></br>
-<b>Neso Academy:</b> <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev" target="_blank">https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev</a><br></br>
+<b>Knowledge Gate:</b> <a href="https://youtube.com/playlist?list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T" target="_blank">https://youtube.com/playlist?list=PLmXKhU9FN</a><br></br>
+<b>Sandeep Sarathi:</b> <a href="https://youtube.com/playlist?list=PLLOxZwkBK52CTVrHjYa7-SpXlEtef1TqL" target="_blank">https://youtube.com/playlist?list=PLLOxZwkBK</a><br></br>
+<b>Education4u:</b> <a href="https://youtube.com/playlist?list=PLrjkTql3jnm_TWSXXvWX1_jX-L6f1QJSx" target="_blank">https://youtube.com/playlist?list=PLrjkTql3jnm</a><br></br>
+<b>Neso Academy:</b> <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev" target="_blank">https://youtube.com/playlist?list=PLBlnK6fE</a><br></br>
 
 <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/second/TOC.pdf' download='TOC.pdf'> Download</a></button>
         
@@ -242,8 +243,8 @@ PROBABILITY AND STOCHASTIC PROCESSES
 <div className="accordion-body text-start">
 <strong>This subject deals with microprocessor fundamentals.</strong> 
 <p>Youtube Channels:</p>
-<b>Dr.Gajendra Purohit:</b> <a href="https://youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK" target="_blank">https://youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK</a><br></br>
-<b>Engineering made easy:</b> <a href="https://youtube.com/playlist?list=PLDp9Jik5WjRtVUYHjx_Q0KohHqqDVKhcX" target="_blank">https://youtube.com/playlist?list=PLDp9Jik5WjRtVUYHjx_Q0KohHqqDVKhcX</a><br></br>
+<b>Dr.Gajendra Purohit:</b> <a href="https://youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK" target="_blank">https://youtube.com/playlist?list=PLU6SqdY</a><br></br>
+<b>Engineering made easy:</b> <a href="https://youtube.com/playlist?list=PLDp9Jik5WjRtVUYHjx_Q0KohHqqDVKhcX" target="_blank">https://youtube.com/playlist?list=PLDp9Jik5Wj</a><br></br>
 
 
 <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/second/Probability.pdf' download='Probability.pdf'> Download</a></button>
@@ -262,9 +263,9 @@ DESIGN AND ANALYSIS OF ALGORITHMS
 <div className="accordion-body text-start">
 <strong>This subject deals with operating system and its fundamentals</strong>
 <p>Youtube Channels:</p>
-<b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa</a><br></br>
-<b>Education4u:</b> <a href="https://youtube.com/playlist?list=PLrjkTql3jnm8wGQyNhgdmm2gkoa8CXCml" target="_blank">https://youtube.com/playlist?list=PLrjkTql3jnm8wGQyNhgdmm2gkoa8CXCml</a><br></br>
-<b>CSE gurus:</b> <a href="https://youtube.com/playlist?list=PLYT7YDstBQmHr7eumHSrdo1aTMpqrpPDa" target="_blank">https://youtube.com/playlist?list=PLYT7YDstBQmHr7eumHSrdo1aTMpqrpPDa</a><br></br>
+<b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd</a><br></br>
+<b>Education4u:</b> <a href="https://youtube.com/playlist?list=PLrjkTql3jnm8wGQyNhgdmm2gkoa8CXCml" target="_blank">https://youtube.com/playlist?list=PLrjkTql3jn</a><br></br>
+<b>CSE gurus:</b> <a href="https://youtube.com/playlist?list=PLYT7YDstBQmHr7eumHSrdo1aTMpqrpPDa" target="_blank">https://youtube.com/playlist?list=PLYT7YDstBQmH</a><br></br>
 
 
 <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/second/DAA.pdf' download='DAA.pdf'> Download</a></button>
@@ -283,8 +284,8 @@ CONVEX OPTIMIZATION
 <div className="accordion-body text-start">
 <strong>This is the third item's accordion body.</strong> 
 <p>Youtube Channels:</p>
-
-
+<b>Ahmed Bazzi: </b><a href="https://youtube.com/playlist?list=PL-DDW8QIRjNOVxrU2efygBw0xADVOgpmw" target="_blank">https://youtube.com/playlist?list=PL-DDW8QIRjN</a><br></br>
+<b>Stanford: </b> <a href="https://youtube.com/playlist?list=PL3940DD956CDF0622" target="_blank">https://youtube.com/playlist?list=PL3940DD956CDF0622</a><br></br>
 <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/second/Concave.pdf' download='Convex.pdf'> Download</a></button>
         
         
@@ -302,9 +303,9 @@ CONVEX OPTIMIZATION
       <div className="accordion-body text-start">
         <strong>This is the third item's accordion body.</strong> 
         <p>Youtube Channels:</p>
-        <b>Pratham Singh:</b> <a href="https://youtube.com/playlist?list=PL-fORSyPTUEILOVoZ9rh5KTCC1EnvKCJ0" target="_blank">https://youtube.com/playlist?list=PL-fORSyPTUEILOVoZ9rh5KTCC1EnvKCJ0</a><br></br>
-        
-       
+       <b>Engineers ki Pathshala:</b> <a href="https://youtube.com/playlist?list=PL9RcWoqXmzaIG-RWneeqDJ-FCt66S15pl" target="_blank">https://youtube.com/playlist?list=PL9RcWoqXmzaIG</a><br></br>
+        <b>Neso Academy:</b> <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO" target="_blank">https://youtube.com/playlist?list=PLBlnK6fEyqRh</a><br></br>
+        <b>Tutorialspoint</b> <a href="https://youtube.com/playlist?list=PLWPirh4EWFpHr_1ZCkuF9ToYUrmujv9Aa" target="_blank">https://youtube.com/playlist?list=PLWPirh4EWF</a><br></br>
         <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/second/SignalandSystems.pdf' download='SignalandSystems.pdf'> Download</a></button>
         
         
@@ -323,7 +324,7 @@ CONVEX OPTIMIZATION
  <label><h4>Name:</h4></label><br></br>
  <input type="text" placeholder="Name" onChange={(e)=>{setName(e.target.value)}}/><br></br>
  <label><h5>Comments:</h5></label><br></br>
- <textarea placeholder='comments,suggestions,queries...' onChange={(e)=>{setComment(e.target.value)}}></textarea><br></br><br></br>
+ <textarea rows="10" cols="30" placeholder='comments,suggestions,queries...' onChange={(e)=>{setComment(e.target.value)}}></textarea><br></br><br></br>
  <button className="btn btn-success" onClick={addtodata}>Submit</button>
 
  </div>

@@ -58,7 +58,7 @@ window.location.reload();
         <section className=" pt-4 pl-2 pr-2 m-2 bg-light border rounded  border-1 shadow-lg">
           <h1 className="text-center text-danger ps-5 pe-5 ms-5 me-5"><b>SEMESTER-5</b> </h1>
           <h3 className="text-center">(August-November)</h3>
-          <p className="text-center"  >All resources needed by a student have been provided below.These include youtube videos links of each subject, textbooks along with PYQs.</p>
+          <p className="text-center"  >All resources needed by a student have been provided below.These include youtube videos links of each subject and PYQs.</p>
         <div className="accordion p-5" id="accordionExample">
     <div className="accordion-item p-2">
     <h2 className="accordion-header">
@@ -67,14 +67,14 @@ window.location.reload();
       </button>
     </h2>
     <div id="collapseOne" className="accordion-collapse collapse " data-bs-parent="#accordionExample">
-      <div className="accordion-body">
+      <div className="accordion-body text-start">
         <strong>The subject deals with the fundamental concepts of programming.</strong> 
 
         <p>Youtube channels:</p>
-         <b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y</a><br></br>
-        <b>Knowledge Gate:</b> <a href="https://youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV" target="_blank">https://youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV</a><br></br>
-        <b>Neso Academy:</b> <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ" target="_blank">https://youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ</a><br></br>
-        <b>Education 4u:</b>  <a href="https://youtube.com/playlist?list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn" target="_blank">https://youtube.com/playlist?list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn</a><br></br>
+         <b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd7aiFA</a><br></br>
+        <b>Knowledge Gate:</b> <a href="https://youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV" target="_blank">https://youtube.com/playlist?list=PLmXKhU9FNesR1</a><br></br>
+        <b>Neso Academy:</b> <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ" target="_blank">https://youtube.com/playlist?list=PLBlnK6fEyqRi</a><br></br>
+        <b>Education 4u:</b>  <a href="https://youtube.com/playlist?list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn" target="_blank">https://youtube.com/playlist?list=PLrjkTql3jnm</a><br></br>
 
           <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner"href='/question/third/Database.pdf' download='DBMS.pdf'> Download</a></button>
         
@@ -89,13 +89,13 @@ window.location.reload();
       </button>
     </h2>
     <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
-      <div className="accordion-body">
+      <div className="accordion-body text-start">
         <strong>This subject deals with fundamental concepts of computer network.</strong> 
         <p>Youtube Channels:</p>
-        <b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_</a><br></br>
-        <b>Knowledge Gate:</b> <a href="https://youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd" target="_blank">https://youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd</a><br></br>
-        <b>Neso Academy:</b> <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx" target="_blank">https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx</a><br></br>
-        <b>Sandeep Saradhi:</b> <a href="https://youtube.com/playlist?list=PLLOxZwkBK52BCOXC7wpI_U81W_eklMFE3" target="_blank">https://youtube.com/playlist?list=PLLOxZwkBK52BCOXC7wpI_U81W_eklMFE3</a><br></br><br></br>
+        <b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd7aiGFB</a><br></br>
+        <b>Knowledge Gate:</b> <a href="https://youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd" target="_blank">https://youtube.com/playlist?list=PLmXKhU9FNesS</a><br></br>
+        <b>Neso Academy:</b> <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx" target="_blank">https://youtube.com/playlist?list=PLBlnK6fEyqRgMC</a><br></br>
+        <b>Sandeep Saradhi:</b> <a href="https://youtube.com/playlist?list=PLLOxZwkBK52BCOXC7wpI_U81W_eklMFE3" target="_blank">https://youtube.com/playlist?list=PLLOxZwkBK5</a><br></br><br></br>
 
          <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/third/Computernetworks.pdf' download='CN.pdf'> Download</a></button>
         
@@ -109,12 +109,12 @@ window.location.reload();
       </button>
     </h2>
     <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
-      <div className="accordion-body">
+      <div className="accordion-body text-start">
         <strong>This subject deals with microprocessor fundamentals.</strong> 
         <p>Youtube Channels:</p>
-        <b>Padmasri Naban:</b> <a href="https://youtube.com/playlist?list=PLMpCSwrw7iRFqHzQyVTfw9JMHqI3xbS6S" target="_blank">https://youtube.com/playlist?list=PLMpCSwrw7iRFqHzQyVTfw9JMHqI3xbS6S</a><br></br>
-        <b>Pawan Chandani:</b> <a href="https://youtube.com/playlist?list=PLt5syl71JKf2KqohkFDBkq4eWX0h4Ol5k" target="_blank">https://youtube.com/playlist?list=PLt5syl71JKf2KqohkFDBkq4eWX0h4Ol5k</a><br></br>
-        <b>Tutorialspoint:</b> <a href="https://youtube.com/playlist?list=PLWPirh4EWFpFDi8bggPYOiMLlD1D_bBPM" target="_blank">https://youtube.com/playlist?list=PLWPirh4EWFpFDi8bggPYOiMLlD1D_bBPM</a><br></br>
+        <b>Padmasri Naban:</b> <a href="https://youtube.com/playlist?list=PLMpCSwrw7iRFqHzQyVTfw9JMHqI3xbS6S" target="_blank">https://youtube.com/playlist?list=PLMpCSwrw7iRF</a><br></br>
+        <b>Pawan Chandani:</b> <a href="https://youtube.com/playlist?list=PLt5syl71JKf2KqohkFDBkq4eWX0h4Ol5k" target="_blank">https://youtube.com/playlist?list=PLt5syl71JKf2</a><br></br>
+        <b>Tutorialspoint:</b> <a href="https://youtube.com/playlist?list=PLWPirh4EWFpFDi8bggPYOiMLlD1D_bBPM" target="_blank">https://youtube.com/playlist?list=PLWPirh4EWFpF</a><br></br>
         
 
         <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/third/Microprocessor.pdf' download='MPMC.pdf'> Download</a></button>
@@ -129,13 +129,13 @@ window.location.reload();
       </button>
     </h2>
     <div id="collapseFour" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
-      <div className="accordion-body">
+      <div className="accordion-body text-start">
         <strong>This subject deals with operating system and its fundamentals</strong>
         <p>Youtube Channels:</p>
-        <b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p</a><br></br>
-        <b>Knowledge Gate:</b> <a href="https://youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD" target="_blank">https://youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD</a><br></br>
-        <b>Neso Academy:</b> <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O" target="_blank">https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O</a><br></br>
-        <b>Education4u:</b> <a href="https://youtube.com/playlist?list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-" target="_blank">https://youtube.com/playlist?list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-</a><br></br>
+        <b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd7a</a><br></br>
+        <b>Knowledge Gate:</b> <a href="https://youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD" target="_blank">https://youtube.com/playlist?list=PLmXKhU9FN</a><br></br>
+        <b>Neso Academy:</b> <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O" target="_blank">https://youtube.com/playlist?list=PLBlnK6fEyqR</a><br></br>
+        <b>Education4u:</b> <a href="https://youtube.com/playlist?list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-" target="_blank">https://youtube.com/playlist?list=PLrjkTql3jnm9</a><br></br>
     
         <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/third/Operatingsystem.pdf' download='OS.pdf'> Download</a></button>
         
@@ -149,10 +149,10 @@ window.location.reload();
       </button>
     </h2>
     <div id="collapseFive" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
-      <div className="accordion-body">
+      <div className="accordion-body text-start">
         <strong>This is the third item's accordion body.</strong> 
         <p>Youtube Channels:</p>
-        <b>Kapil Joshi Tutorials:</b> <a href="https://youtube.com/playlist?list=PLbWkMgLvWbDF3bErg6Ejo8d1QtTSqtWwN" target="_blank">https://youtube.com/playlist?list=PLbWkMgLvWbDF3bErg6Ejo8d1QtTSqtWwN</a><br></br>
+        <b>Kapil Joshi Tutorials:</b> <a href="https://youtube.com/playlist?list=PLbWkMgLvWbDF3bErg6Ejo8d1QtTSqtWwN" target="_blank">https://youtube.com/playlist?list=PLbWkMgLvWb</a><br></br>
 
    
         <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/third/Ppl.pdf' download='PPL.pdf'> Download</a></button>
@@ -171,6 +171,7 @@ window.location.reload();
  <section className="pt-4 pl-2 pr-2 m-2 bg-light border rounded  border-1 shadow-lg">
   <h1 className="text-center  text-danger "><b>SEMESTER-6</b> </h1>
   <h3 className="text-center">(January-May)</h3>
+  <p className="text-center"  >All resources needed by a student have been provided below.These include youtube videos links of each subject and  PYQs.</p>
 <div className="accordion p-5" id="accordionExample2">
 <div className="accordion-item p-2">
 <h2 className="accordion-header">
@@ -179,13 +180,13 @@ ARTIFICIAL INTELLIGENCE
 </button>
 </h2>
 <div id="collapseSix" className="accordion-collapse collapse " data-bs-parent="#accordionExample2">
-<div className="accordion-body">
+<div className="accordion-body text-start">
 <strong>The subject deals with the fundamental concepts of programming.</strong> 
 
 <p>Youtube channels:</p>
- <b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI</a><br></br>
-<b>Easy Engineering Classes:</b> <a href="https://youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe" target="_blank">https://youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe</a><br></br>
-<b>Education4u:</b>  <a href="https://youtube.com/playlist?list=PLrjkTql3jnm_yol-ZK1QqPSn5YSg0NF9r" target="_blank">https://youtube.com/playlist?list=PLrjkTql3jnm_yol-ZK1QqPSn5YSg0NF9r</a><br></br>
+ <b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd7aiHGh</a><br></br>
+<b>Easy Engineering Classes:</b> <a href="https://youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe" target="_blank">https://youtube.com/playlist?list=PLV8v</a><br></br>
+<b>Education4u:</b>  <a href="https://youtube.com/playlist?list=PLrjkTql3jnm_yol-ZK1QqPSn5YSg0NF9r" target="_blank">https://youtube.com/playlist?list=PLrjkTql3jnm_yol</a><br></br>
 
   <b>Previous Year Questions:</b> <button className="btn btn-success"><a className="inner" href='/question/third/AI.pdf' download='AI.pdf'> Download</a></button>
         
@@ -199,12 +200,12 @@ SOFTWARE ENGINEERING
 </button>
 </h2>
 <div id="collapseSeven" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
-<div className="accordion-body">
+<div className="accordion-body text-start">
 <strong>This subject deals with fundamental concepts of computer network.</strong> 
 <p>Youtube Channels:</p>
-<b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2</a><br></br>
-<b>Easy Engineering Tutorials:</b> <a href="https://youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm" target="_blank">https://youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm</a><br></br>
-<b>Education4u:</b> <a href="https://youtube.com/playlist?list=PLrjkTql3jnm9b5nr-ggx7Pt1G4UAHeFlJ" target="_blank">https://youtube.com/playlist?list=PLrjkTql3jnm9b5nr-ggx7Pt1G4UAHeFlJ</a><br></br>
+<b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd7aiE</a><br></br>
+<b>Easy Engineering Tutorials:</b> <a href="https://youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm" target="_blank">https://youtube.com/playlist?list=PLV8vIY</a><br></br>
+<b>Education4u:</b> <a href="https://youtube.com/playlist?list=PLrjkTql3jnm9b5nr-ggx7Pt1G4UAHeFlJ" target="_blank">https://youtube.com/playlist?list=PLrjkTql3jnm</a><br></br>
 
 
 <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/third/SoftwareEngg.pdf' download='SE.pdf'> Download</a></button>
@@ -220,13 +221,13 @@ COMPUTER GRAPHICS
 </button>
 </h2>
 <div id="collapseEight" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
-<div className="accordion-body">
+<div className="accordion-body text-start">
 <strong>This subject deals with microprocessor fundamentals.</strong> 
 <p>Youtube Channels:</p>
 
-<b>5 mins engineering:</b> <a href="https://youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T" target="_blank">https://youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T</a><br></br>
-<b>Education4u:</b> <a href="https://youtube.com/playlist?list=PLrjkTql3jnm9cY0ijEyr2fPdwnH-0t8EY" target="_blank">https://youtube.com/playlist?list=PLrjkTql3jnm9cY0ijEyr2fPdwnH-0t8EY</a><br></br>
-<b>Sandeep Sarathi:</b> <a href="https://youtube.com/playlist?list=PLLOxZwkBK52DkMLAYhRLA_VtePq5wW_N4" target="_blank">https://youtube.com/playlist?list=PLLOxZwkBK52DkMLAYhRLA_VtePq5wW_N4</a><br></br>
+<b>5 mins engineering:</b> <a href="https://youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T" target="_blank">https://youtube.com/playlist?list=PLYwpaL_SFmcAt</a><br></br>
+<b>Education4u:</b> <a href="https://youtube.com/playlist?list=PLrjkTql3jnm9cY0ijEyr2fPdwnH-0t8EY" target="_blank">https://youtube.com/playlist?list=PLrjkTql3jn</a><br></br>
+<b>Sandeep Sarathi:</b> <a href="https://youtube.com/playlist?list=PLLOxZwkBK52DkMLAYhRLA_VtePq5wW_N4" target="_blank">https://youtube.com/playlist?list=PLLOxZwkBK</a><br></br>
 
 <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/third/Computergraphics.pdf' download='CG.pdf'> Download</a></button>
         
@@ -240,11 +241,11 @@ COMPILER DESIGN
 </button>
 </h2>
 <div id="collapseNine" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
-<div className="accordion-body">
+<div className="accordion-body text-start">
 <strong>This subject deals with operating system and its fundamentals</strong>
 <p>Youtube Channels:</p>
-<b>The GateHub:</b> <a href="https://youtube.com/playlist?list=PL1QH9gyQXfguPNDTsnG90W2kBDQpYLDQr" target="_blank">https://youtube.com/playlist?list=PL1QH9gyQXfguPNDTsnG90W2kBDQpYLDQr</a><br></br>
-<b>Ravindrababu Ravula:</b> <a href="https://youtube.com/playlist?list=PLMzYNEvC0P7FwwnrXwAjPq8zLTC4MDQKQ" target="_blank">https://youtube.com/playlist?list=PLMzYNEvC0P7FwwnrXwAjPq8zLTC4MDQKQ</a><br></br>
+<b>The GateHub:</b> <a href="https://youtube.com/playlist?list=PL1QH9gyQXfguPNDTsnG90W2kBDQpYLDQr" target="_blank">https://youtube.com/playlist?list=PL1QH9gyQXf</a><br></br>
+<b>Ravindrababu Ravula:</b> <a href="https://youtube.com/playlist?list=PLMzYNEvC0P7FwwnrXwAjPq8zLTC4MDQKQ" target="_blank">https://youtube.com/playlist?list=PLMzYNEvC0P</a><br></br>
 
 
 <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/third/Compiler.pdf' download='Compiler.pdf'> Download</a></button>
@@ -259,10 +260,10 @@ MACROECONOMICS
 </button>
 </h2>
 <div id="collapseTen" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
-<div className="accordion-body">
+<div className="accordion-body text-start">
 <strong>This is the third item's accordion body.</strong> 
 <p>Youtube Channel:</p>
-<b>Learn to Complete:</b> <a href="https://youtube.com/playlist?list=PLKH0BevfCZvLnVr07InGNBG5KzqDy6ia3" target="_blank">https://youtube.com/playlist?list=PLKH0BevfCZvLnVr07InGNBG5KzqDy6ia3</a><br></br>
+<b>Learn to Complete:</b> <a href="https://youtube.com/playlist?list=PLKH0BevfCZvLnVr07InGNBG5KzqDy6ia3" target="_blank">https://youtube.com/playlist?list=PLKH0BevfCZ</a><br></br>
 
 
 <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/third/Macroeconomics.pdf' download='Economics.pdf'> Download</a></button>
@@ -283,7 +284,7 @@ MACROECONOMICS
  <label><h4>Name:</h4></label><br></br>
  <input type="text" placeholder="Name" onChange={(e)=>{setName(e.target.value)}}/><br></br>
  <label><h5>Comments:</h5></label><br></br>
- <textarea placeholder='comments,suggestions,queries...' onChange={(e)=>{setComment(e.target.value)}}></textarea><br></br><br></br>
+ <textarea rows="10" cols="30" placeholder='comments,suggestions,queries...' onChange={(e)=>{setComment(e.target.value)}}></textarea><br></br><br></br>
  <button className="btn btn-success" onClick={addtodata}>Submit</button>
 
  </div>
