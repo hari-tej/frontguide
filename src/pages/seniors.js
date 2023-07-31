@@ -2,9 +2,9 @@ export const Senior=()=>{
     return(
        <div>
         <span><h1 className="text-center text-light mt-5 mx-3">Connect to your CSE Seniors for help!</h1></span>
-        <div className="container-lg justify-content-center">
-        <br></br><br></br>
-            <div className="col d-flex flex-direction-center justify-content-center "> 
+        <div className="container ">
+            <div className="row ">
+            <div className="col-12  col-md-6 col-lg-4 mt-5 d-flex flex-direction-center justify-content-center "> 
                     <div className="card shadow-lg" style={{width: 18 +'rem'}}>
                          <img src="/images/sahil.jpg" className="card-img-top" alt="..."/>
                     <div className="card-body">
@@ -18,10 +18,11 @@ export const Senior=()=>{
                  </div>
                   </div>
                   </div>
-            </div>
-            <br></br><br></br>
-             
-            <div className="col d-flex flex-direction-center justify-content-center ">
+                
+       
+   
+           
+            <div className="col-12 col-md-6 col-lg-4 mt-5 d-flex flex-direction-center justify-content-center">
             <div className="card shadow-lg" style={{width: 18 +'rem'}}>
              <img src="/images/abhishek.jpeg" className="card-img-top " alt="..."/>
               <div className="card-body">
@@ -35,20 +36,19 @@ export const Senior=()=>{
               </div>
  
             </div>
-          
-           
-          </div>
-          <br></br><br></br>
+            </div>
+        
+         
 
-          <div className="container-lg">
+
           
-            <div className="col d-flex flex-direction-center justify-content-center "> 
+            <div className="col-12 col-md-6 col-lg-4 mt-5 d-flex flex-direction-center justify-content-center"> 
                     <div className="card shadow-lg" style={{width: 18 +'rem'}}>
-                         <img src="C:\Users\chego\Desktop\csguide\public\logo192.png" className="card-img-top" alt="..."/>
+                         <img src="/images/prakash.jpg" className="card-img-top" alt="..."/>
                     <div className="card-body">
                      <h5 className="card-title text-center">Prakash Dewasi</h5>
                      <p className="card-text text-center">Batch-2019</p>
-                    <p className="card-text text-center">Currently working at Alstom</p>
+                    <p className="card-text text-center">Currently working at <b>Nucleus Software</b></p>
                     <div className="col text-center">
                     <a href="https://instagram.com/____prakash_?igshid=MzRlODBiNWFlZA==" target="_blank" className="btn btn-danger">Instagram</a><br></br><br></br>
                     <a href="https://instagram.com/____prakash_?igshid=MzRlODBiNWFlZA==" target="_blank" className="btn btn-primary">Linkedin</a>
@@ -56,9 +56,11 @@ export const Senior=()=>{
                   </div>
                   </div>
             </div>
-            <br></br><br></br>
-             
-            <div className="col d-flex flex-direction-center justify-content-center">
+            </div>
+           
+  
+            <div className="row">
+            <div className="col-12 col-md-6 col-lg-4 mt-5 d-flex flex-direction-center justify-content-center">
             <div className="card shadow-lg" style={{width: 18 +'rem'}}>
              <img src="/images/aravind.jpeg" className="card-img-top" alt="..."/>
               <div className="card-body">
@@ -75,11 +77,11 @@ export const Senior=()=>{
             </div>
           
             
-          </div>
-          <br></br><br></br>
-          <div className="container-lg">
+     
+
+
            
-            <div className="col d-flex flex-direction-center justify-content-center "> 
+            <div className="col-12 col-md-6 col-lg-4 mt-5 d-flex flex-direction-center justify-content-center "> 
                     <div className="card shadow-lg" style={{width: 18 +'rem'}}>
                          <img src="/images/niraj.jpeg" className="card-img-top" alt="..."/>
                     <div className="card-body">
@@ -94,8 +96,8 @@ export const Senior=()=>{
                   </div>
             </div>
             
-            <br></br><br></br>
-            <div className="col d-flex flex-direction-center justify-content-center ">
+     
+            <div className="col-12 col-md-6 col-lg-4 mt-5 d-flex flex-direction-center justify-content-center ">
             <div className="card shadow-lg" style={{width: 18 +'rem'}}>
              <img src="/images/balaji.jpeg" className="card-img-top" alt="..."/>
               <div className="card-body">
@@ -111,12 +113,12 @@ export const Senior=()=>{
  
             </div>
           
-          
+        
           </div>
-          <br></br><br></br>
-          <div className="container-lg">
-           
-            <div className="col d-flex flex-direction-center justify-content-center "> 
+ 
+          
+           <div className="row">
+            <div className="col-12 col-md-6 col-lg-4 mt-5 d-flex flex-direction-center justify-content-center "> 
                     <div className="card shadow-lg" style={{width: 18 +'rem'}}>
                          <img src="/images/sai.jpeg" className="card-img-top" alt="..."/>
                     <div className="card-body">
@@ -136,7 +138,7 @@ export const Senior=()=>{
             </div>
             
             <br></br><br></br>
-            <div className="col d-flex flex-direction-center justify-content-center ">
+            <div className="col-12 col-md-6 col-lg-4 mt-5 d-flex flex-direction-center justify-content-center ">
             <div className="card shadow-lg" style={{width: 18 +'rem'}}>
              <img src="/images/rahul.jpg" className="card-img-top" alt="..."/>
               <div className="card-body">
@@ -153,11 +155,11 @@ export const Senior=()=>{
             </div>
           
          
-          </div>
-          <br></br><br></br>
-          <div className="container-lg">
+      
+        
+       
            
-            <div className="col d-flex flex-direction-center justify-content-center "> 
+            <div className="col-12 col-md-6 col-lg-4 mt-5 d-flex flex-direction-center justify-content-center "> 
                     <div className="card shadow-lg" style={{width: 18 +'rem'}}>
                          <img src="/images/anamika.jpeg" className="card-img-top" alt="..."/>
                     <div className="card-body">
@@ -171,9 +173,9 @@ export const Senior=()=>{
                   </div>
                   </div>
             </div>
-            
-            <br></br><br></br>
-            <div className="col d-flex flex-direction-center justify-content-center ">
+            </div>
+            <div className="row">
+            <div className="col-12 col-md-6 col-lg-4 mt-5 d-flex flex-direction-center justify-content-center ">
             <div className="card shadow-lg" style={{width: 18 +'rem'}}>
              <img src="/images/isha.jpg" className="card-img-top" alt="..."/>
               <div className="card-body">
@@ -187,15 +189,16 @@ export const Senior=()=>{
               </div>
               </div>
             </div>
-          
+            </div>
            
-          </div>
+        
           <br></br>
           <br></br>
           <h4 className="text-center text-light"><i >more seniors will be added soon....</i></h4>
           
             
         
-       </div>    
+       </div>   
+       </div> 
     );
 };
