@@ -28,10 +28,9 @@ export const Place=()=>{
          used for coding. Most commonly used ones are: GeeksForGeeks, Leetcode, Codechef,Hackerrank. Any one of these platforms can be used for
          practicing problems. Its never the quanity but the quality that matters the most.</h5>
          <h5 class="px-4 text-start">Some commonly used DSA sheets for problem solving are provided below:</h5>
-         <h5 class="px-4 text-start">Striver: </h5><a class="d-flex flex-direction-row jusitfy-content-start ps-4" href="#" alt="">www.google.com</a><br></br>
-         <h5 class="px-4 text-start">Love Babbar:</h5> <a class="d-flex flex-direction-row jusitfy-content-start ps-4" href="#" alt="">www.google.com</a><br></br>
-         <h5 class="px-4 text-start">Apna College:</h5> <a class="d-flex flex-direction-row jusitfy-content-start ps-4" href="#" alt="">www.google.com</a><br></br>
-         <h5 class="px-4 text-start">Fraz:</h5> <a class="d-flex flex-direction-row jusitfy-content-start ps-4" href="#" alt="">www.google.com</a><br></br><br></br>
+         <h5 class="px-4 text-start">Love Babbar:</h5> <a class="d-flex flex-direction-row jusitfy-content-start ps-4" href="https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?pli=1" alt="">LoveBabbar</a><br></br>
+         <h5 class="px-4 text-start">Apna College:</h5> <a class="d-flex flex-direction-row jusitfy-content-start ps-4" href="https://docs.google.com/spreadsheets/u/0/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview" alt="">Apna college</a><br></br>
+         <h5 class="px-4 text-start">Fraz:</h5> <a class="d-flex flex-direction-row jusitfy-content-start ps-4" href="https://docs.google.com/spreadsheets/u/0/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/htmlview" alt="">Fraz</a><br></br><br></br>
 
         </li><br></br>
          <li class="list-group-item shadow-lg  " data-aos="fade-top"><h1 class="text-secondary text-center  mt-4">3.Learn to make projects</h1><br></br>
