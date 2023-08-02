@@ -276,7 +276,7 @@ MACROECONOMICS
 </section>
 <br></br>
 <br></br>
-<form className="bg-warning py-5 m-5">
+<form className="bg-warning py-5 m-4">
  <div className="container-lg">
  <h2 className="text-light">Queries & Suggestions</h2><br></br>
  <label><h5>Roll No:</h5></label><br></br>
