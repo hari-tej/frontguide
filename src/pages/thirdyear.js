@@ -68,7 +68,7 @@ window.location.reload();
     </h2>
     <div id="collapseOne" className="accordion-collapse collapse " data-bs-parent="#accordionExample">
       <div className="accordion-body text-start">
-        <strong>The subject deals with the fundamental concepts of programming.</strong> 
+
 
         <p>Youtube channels:</p>
          <b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd7aiFA</a><br></br>
@@ -90,7 +90,7 @@ window.location.reload();
     </h2>
     <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body text-start">
-        <strong>This subject deals with fundamental concepts of computer network.</strong> 
+       
         <p>Youtube Channels:</p>
         <b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd7aiGFB</a><br></br>
         <b>Knowledge Gate:</b> <a href="https://youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd" target="_blank">https://youtube.com/playlist?list=PLmXKhU9FNesS</a><br></br>
@@ -110,7 +110,7 @@ window.location.reload();
     </h2>
     <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body text-start">
-        <strong>This subject deals with microprocessor fundamentals.</strong> 
+
         <p>Youtube Channels:</p>
         <b>Padmasri Naban:</b> <a href="https://youtube.com/playlist?list=PLMpCSwrw7iRFqHzQyVTfw9JMHqI3xbS6S" target="_blank">https://youtube.com/playlist?list=PLMpCSwrw7iRF</a><br></br>
         <b>Pawan Chandani:</b> <a href="https://youtube.com/playlist?list=PLt5syl71JKf2KqohkFDBkq4eWX0h4Ol5k" target="_blank">https://youtube.com/playlist?list=PLt5syl71JKf2</a><br></br>
@@ -130,7 +130,7 @@ window.location.reload();
     </h2>
     <div id="collapseFour" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body text-start">
-        <strong>This subject deals with operating system and its fundamentals</strong>
+    
         <p>Youtube Channels:</p>
         <b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd7a</a><br></br>
         <b>Knowledge Gate:</b> <a href="https://youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD" target="_blank">https://youtube.com/playlist?list=PLmXKhU9FN</a><br></br>
@@ -150,7 +150,7 @@ window.location.reload();
     </h2>
     <div id="collapseFive" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body text-start">
-        <strong>This is the third item's accordion body.</strong> 
+
         <p>Youtube Channels:</p>
         <b>Kapil Joshi Tutorials:</b> <a href="https://youtube.com/playlist?list=PLbWkMgLvWbDF3bErg6Ejo8d1QtTSqtWwN" target="_blank">https://youtube.com/playlist?list=PLbWkMgLvWb</a><br></br>
 
@@ -181,7 +181,7 @@ ARTIFICIAL INTELLIGENCE
 </h2>
 <div id="collapseSix" className="accordion-collapse collapse " data-bs-parent="#accordionExample2">
 <div className="accordion-body text-start">
-<strong>The subject deals with the fundamental concepts of programming.</strong> 
+ 
 
 <p>Youtube channels:</p>
  <b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd7aiHGh</a><br></br>
@@ -201,7 +201,7 @@ SOFTWARE ENGINEERING
 </h2>
 <div id="collapseSeven" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
 <div className="accordion-body text-start">
-<strong>This subject deals with fundamental concepts of computer network.</strong> 
+ 
 <p>Youtube Channels:</p>
 <b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd7aiE</a><br></br>
 <b>Easy Engineering Tutorials:</b> <a href="https://youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm" target="_blank">https://youtube.com/playlist?list=PLV8vIY</a><br></br>
@@ -222,7 +222,7 @@ COMPUTER GRAPHICS
 </h2>
 <div id="collapseEight" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
 <div className="accordion-body text-start">
-<strong>This subject deals with microprocessor fundamentals.</strong> 
+ 
 <p>Youtube Channels:</p>
 
 <b>5 mins engineering:</b> <a href="https://youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T" target="_blank">https://youtube.com/playlist?list=PLYwpaL_SFmcAt</a><br></br>
@@ -242,7 +242,7 @@ COMPILER DESIGN
 </h2>
 <div id="collapseNine" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
 <div className="accordion-body text-start">
-<strong>This subject deals with operating system and its fundamentals</strong>
+
 <p>Youtube Channels:</p>
 <b>The GateHub:</b> <a href="https://youtube.com/playlist?list=PL1QH9gyQXfguPNDTsnG90W2kBDQpYLDQr" target="_blank">https://youtube.com/playlist?list=PL1QH9gyQXf</a><br></br>
 <b>Ravindrababu Ravula:</b> <a href="https://youtube.com/playlist?list=PLMzYNEvC0P7FwwnrXwAjPq8zLTC4MDQKQ" target="_blank">https://youtube.com/playlist?list=PLMzYNEvC0P</a><br></br>
@@ -261,7 +261,7 @@ MACROECONOMICS
 </h2>
 <div id="collapseTen" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
 <div className="accordion-body text-start">
-<strong>This is the third item's accordion body.</strong> 
+
 <p>Youtube Channel:</p>
 <b>Learn to Complete:</b> <a href="https://youtube.com/playlist?list=PLKH0BevfCZvLnVr07InGNBG5KzqDy6ia3" target="_blank">https://youtube.com/playlist?list=PLKH0BevfCZ</a><br></br>
 

@@ -61,7 +61,7 @@ window.location.reload();
     </h2>
     <div id="collapseOne" className="accordion-collapse collapse " data-bs-parent="#accordionExample">
       <div className="accordion-body text-start">
-        <strong>The subject deals with the fundamental concepts of programming.</strong> 
+   
 
         <p>Youtube channels:</p>
          <b>Uzaid Javed Akhtar </b><a href="https://youtube.com/playlist?list=PLv9sD0fPjvSHqIOLTIvHJWjkdH0IdzmXT" target="_blank">https://youtube.com/playlist?list=PLv9sD0fPjvSH</a><br></br>
@@ -80,7 +80,7 @@ window.location.reload();
     </h2>
     <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body text-start">
-        <strong>This subject deals with fundamental concepts of computer network.</strong> 
+      
         <p>Youtube Channels:</p>
         <b>Shanu kuttan CSE classes: </b> <a href="https://youtube.com/playlist?list=PL3R9-um41JswxXxLu6qmsib45wDd7d0YU" target="_blank">https://youtube.com/playlist?list=PL3R9-um41Js</a><br></br>
         <b>AllAboutCSIT:</b> <a href="https://youtube.com/playlist?list=PLGuh2K9TUN4Qxkrylyq_qwfhAZiuzZ2gz" target="_blank">https://youtube.com/playlist?list=PLGuh2K9TUN4Q</a><br></br>
@@ -99,7 +99,7 @@ window.location.reload();
     </h2>
     <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body text-start">
-        <strong>This subject deals with microprocessor fundamentals.</strong> 
+       
         <p>Youtube Channels:</p>
       
         <b>5 mins engineering:</b> <a href="https://youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P" target="_blank">https://youtube.com/playlist?list=PLYwpaL_SFmcB</a><br></br>
@@ -133,7 +133,7 @@ NETWORK SECURITY AND CRYPTOGRAPHY
 </h2>
 <div id="collapseSix" className="accordion-collapse collapse " data-bs-parent="#accordionExample2">
 <div className="accordion-body text-start">
-<strong>The subject deals with the fundamental concepts of programming.</strong> 
+
 
 <p>Youtube channels:</p>
  <b>Abhishek Sharma: </b> <a href="https://youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8" target="_blank">https://youtube.com/playlist?list=PL9FuOtXibF</a><br></br>
@@ -153,7 +153,7 @@ CLOUD COMPUTING
 </h2>
 <div id="collapseSeven" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
 <div className="accordion-body text-start">
-<strong>This subject deals with fundamental concepts of computer network.</strong> 
+
 <p>Youtube Channels:</p>
 <b>Abhishek Sharma:</b> <a href="https://youtube.com/playlist?list=PL9FuOtXibFjUE8MpVv6uiAWfj5E3dsBZR" target="_blank">https://youtube.com/playlist?list=PL9FuOtXibF</a><br></br>
 <b>5 mins engineering:</b> <a href="https://youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV" target="_blank">https://youtube.com/playlist?list=PLYwpaL_SFmc</a><br></br>
@@ -173,7 +173,7 @@ ENVIRONMENTAL STUDIES
 </h2>
 <div id="collapseEight" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
 <div className="accordion-body text-start">
-<strong>This subject deals with microprocessor fundamentals.</strong> 
+ 
 <p>Youtube Channels:</p>
 <b>Study circle 2.0:</b> <a href="https://youtube.com/playlist?list=PLhc1EpSGc3oNHOEtC_gDeazKbyOrF-wkP" target="_blank">https://youtube.com/playlist?list=PLhc1EpSGc3oNHOE</a><br></br>
 

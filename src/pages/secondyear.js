@@ -59,7 +59,7 @@ const addtodata=()=>{
     </h2>
     <div id="collapseOne" className="accordion-collapse collapse " data-bs-parent="#accordionExample">
       <div className="accordion-body text-start">
-        <strong>The subject deals with the fundamental concepts of programming.</strong> 
+  
 
         <p>Youtube channels:</p>
           <b>kunal kushwaha:</b> <a href="https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk" target="_blank">https://youtube.com/playlist?list=PL9gnSGHSq</a><br></br>
@@ -67,7 +67,7 @@ const addtodata=()=>{
          <b>Smart Programming:</b> <a href="https://youtube.com/playlist?list=PLlhM4lkb2sEhf5NlWeYh_gdcN49pHjVP0" target="_blank">https://youtube.com/playlist?list=PLlhM4lkb2s</a><br></br>
           
           
-          <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/second/Macroeconomics.pdf' download='Economics.pdf'> Download</a></button>
+          <b>Previous Year Questions:</b> <button className="btn btn-success "><a className="inner" href='/question/second/Macroeconomics.pdf' download='Oops.pdf'> Download</a></button><p className='text-danger'>Question papers yet to be found,will be available shortly</p>
         
         
          
@@ -82,7 +82,7 @@ const addtodata=()=>{
     </h2>
     <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body text-start">
-        <strong>This subject deals with fundamental concepts of computer network.</strong> 
+     
         <p>Youtube Channels:</p>
         <b>Naresh i Technologies:</b> <a href="https://youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j" target="_blank">https://youtube.com/playlist?list=PLVlQHNRLflP</a><br></br>
         <b>Engineer Drive:</b> <a href="https://youtube.com/playlist?list=PL5Rc9H5eTGY46HAzmNeHbrE5r9LTf_rNB" target="_blank">https://youtube.com/playlist?list=PL5Rc9H5eTGY46H</a><br></br>
@@ -102,7 +102,7 @@ const addtodata=()=>{
     </h2>
     <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body text-start">
-        <strong>This subject deals with microprocessor fundamentals.</strong> 
+        
         <p>Youtube Channels:</p>
         <b>Dr.Gajendra Purohit:</b> <a href="https://youtube.com/playlist?list=PLU6SqdYcYsfI34zVjDYDCZ6KLAifHmN1v" target="_blank">https://youtube.com/playlist?list=PLU6SqdYcYsf </a><br></br>
         <b>Dr.Gajendra Purohit:</b> <a href="https://youtube.com/playlist?list=PLU6SqdYcYsfJOGZdxUpDk3w9o-w94-RoG" target="_blank">https://youtube.com/playlist?list=PLU6SqdYcYsf</a><br></br>
@@ -123,7 +123,7 @@ const addtodata=()=>{
     </h2>
     <div id="collapseFour" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body text-start">
-        <strong>This subject deals with operating system and its fundamentals</strong>
+       
         <p>Youtube Channels:</p>
         <b>Tutorials point:</b> <a href="https://youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-" target="_blank">https://youtube.com/playlist?list=PLWPirh4EWF</a><br></br>
         <b>Gate academy plus:</b> <a href="https://youtube.com/playlist?list=PL9RcWoqXmzaJN3LcyxBm2tLjUk8wvOYrv" target="_blank">https://youtube.com/playlist?list=PL9RcWoqX</a><br></br>
@@ -144,7 +144,7 @@ const addtodata=()=>{
     </h2>
     <div id="collapseFive" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body text-start">
-        <strong>This is the third item's accordion body.</strong> 
+         
         <p>Youtube Channels:</p>
         <b>Pratham Singh:</b> <a href="https://youtube.com/playlist?list=PL-fORSyPTUEILOVoZ9rh5KTCC1EnvKCJ0" target="_blank">https://youtube.com/playlist?list=PL-fORSyPTUE</a><br></br>
         
@@ -163,7 +163,7 @@ const addtodata=()=>{
     </h2>
     <div id="collapseSix" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div className="accordion-body text-start">
-        <strong>This is the third item's accordion body.</strong> 
+       
         <p>Youtube Channels:</p>
         <b>Dr.Gajendra Purohit:</b> <a href="https://youtube.com/playlist?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg" target="_blank">https://youtube.com/playlist?list=PLU6SqdYcY</a><br></br>
 <b>Neso Academy:</b> <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3" target="_blank">https://youtube.com/playlist?list=PLBlnK6fEyqR</a><br></br>
@@ -197,7 +197,7 @@ COMPUTER ORGANIZATION AND ARCHITECTURE
 </h2>
 <div id="collapseSeven" className="accordion-collapse collapse " data-bs-parent="#accordionExample2">
 <div className="accordion-body text-start">
-<strong>The subject deals with the fundamental concepts of programming.</strong> 
+
 
 <p>Youtube channels:</p>
   <b>Sudhakar Atchala:</b> <a href="https://youtube.com/playlist?list=PLXj4XH7LcRfDXDRzSLv1FfZ-SSA38SiC0" target="_blank">https://youtube.com/playlist?list=PLXj4XH7LcRfD</a><br></br>
@@ -219,7 +219,7 @@ THEORY OF COMPUTATION
 </h2>
 <div id="collapseEight" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
 <div className="accordion-body text-start">
-<strong>This subject deals with fundamental concepts of computer network.</strong> 
+
 <p>Youtube Channels:</p>
 <b>Knowledge Gate:</b> <a href="https://youtube.com/playlist?list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T" target="_blank">https://youtube.com/playlist?list=PLmXKhU9FN</a><br></br>
 <b>Sandeep Sarathi:</b> <a href="https://youtube.com/playlist?list=PLLOxZwkBK52CTVrHjYa7-SpXlEtef1TqL" target="_blank">https://youtube.com/playlist?list=PLLOxZwkBK</a><br></br>
@@ -241,7 +241,7 @@ PROBABILITY AND STOCHASTIC PROCESSES
 </h2>
 <div id="collapseNine" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
 <div className="accordion-body text-start">
-<strong>This subject deals with microprocessor fundamentals.</strong> 
+
 <p>Youtube Channels:</p>
 <b>Dr.Gajendra Purohit:</b> <a href="https://youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK" target="_blank">https://youtube.com/playlist?list=PLU6SqdY</a><br></br>
 <b>Engineering made easy:</b> <a href="https://youtube.com/playlist?list=PLDp9Jik5WjRtVUYHjx_Q0KohHqqDVKhcX" target="_blank">https://youtube.com/playlist?list=PLDp9Jik5Wj</a><br></br>
@@ -261,7 +261,7 @@ DESIGN AND ANALYSIS OF ALGORITHMS
 </h2>
 <div id="collapseTen" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
 <div className="accordion-body text-start">
-<strong>This subject deals with operating system and its fundamentals</strong>
+
 <p>Youtube Channels:</p>
 <b>Gate Smashers:</b> <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa" target="_blank">https://youtube.com/playlist?list=PLxCzCOWd</a><br></br>
 <b>Education4u:</b> <a href="https://youtube.com/playlist?list=PLrjkTql3jnm8wGQyNhgdmm2gkoa8CXCml" target="_blank">https://youtube.com/playlist?list=PLrjkTql3jn</a><br></br>
@@ -282,7 +282,7 @@ CONVEX OPTIMIZATION
 </h2>
 <div id="collapseEleven" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
 <div className="accordion-body text-start">
-<strong>This is the third item's accordion body.</strong> 
+
 <p>Youtube Channels:</p>
 <b>Ahmed Bazzi: </b><a href="https://youtube.com/playlist?list=PL-DDW8QIRjNOVxrU2efygBw0xADVOgpmw" target="_blank">https://youtube.com/playlist?list=PL-DDW8QIRjN</a><br></br>
 <b>Stanford: </b> <a href="https://youtube.com/playlist?list=PL3940DD956CDF0622" target="_blank">https://youtube.com/playlist?list=PL3940DD956CDF0622</a><br></br>
@@ -301,7 +301,7 @@ CONVEX OPTIMIZATION
     </h2>
     <div id="collapseTwelve" className="accordion-collapse collapse" data-bs-parent="#accordionExample2">
       <div className="accordion-body text-start">
-        <strong>This is the third item's accordion body.</strong> 
+   
         <p>Youtube Channels:</p>
        <b>Engineers ki Pathshala:</b> <a href="https://youtube.com/playlist?list=PL9RcWoqXmzaIG-RWneeqDJ-FCt66S15pl" target="_blank">https://youtube.com/playlist?list=PL9RcWoqXmzaIG</a><br></br>
         <b>Neso Academy:</b> <a href="https://youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO" target="_blank">https://youtube.com/playlist?list=PLBlnK6fEyqRh</a><br></br>
